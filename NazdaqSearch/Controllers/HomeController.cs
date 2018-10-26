@@ -7,7 +7,7 @@ namespace NazdaqSearch.Controllers{
         
         public IActionResult Index(){
             
-            HtmlParsing.testParser();
+            HtmlParsing.OptionsParsing();
             return View();
         }
     
