@@ -7,7 +7,9 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
- 
+using Microsoft.EntityFrameworkCore;
+using NazdaqSearch.Models;
+
 namespace NazdaqSearch
 {
     public class Startup
@@ -17,6 +19,10 @@ namespace NazdaqSearch
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            services.AddDbContext<NazdaqDataContext>(options =>
+                options.UseSqlite("Data Source=MvcMovie.db"));
+
         }
  
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

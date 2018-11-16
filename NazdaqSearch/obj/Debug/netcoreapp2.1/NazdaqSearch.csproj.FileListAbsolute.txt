@@ -21,3 +21,6 @@ C:\Users\Robert Rose\Documents\GitHub\Software-Engineering-ICSI-418Y\NazdaqSearc
 C:\Users\Robert Rose\Documents\GitHub\Software-Engineering-ICSI-418Y\NazdaqSearch\obj\Debug\netcoreapp2.1\NazdaqSearch.RazorTargetAssemblyInfo.cs
 C:\Users\Robert Rose\Documents\GitHub\Software-Engineering-ICSI-418Y\NazdaqSearch\obj\Debug\netcoreapp2.1\NazdaqSearch.Views.pdb
 C:\Users\Robert Rose\Documents\GitHub\Software-Engineering-ICSI-418Y\NazdaqSearch\obj\Debug\netcoreapp2.1\NazdaqSearch.csproj.CopyComplete
+C:\Users\Robert Rose\Documents\GitHub\Software-Engineering-ICSI-418Y\NazdaqSearch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Robert Rose\Documents\GitHub\Software-Engineering-ICSI-418Y\NazdaqSearch\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewStart.g.cshtml.cs
+C:\Users\Robert Rose\Documents\GitHub\Software-Engineering-ICSI-418Y\NazdaqSearch\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
