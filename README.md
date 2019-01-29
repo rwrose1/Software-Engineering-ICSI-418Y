@@ -1,4 +1,4 @@
-# Software-Engineering-ICSI-418Y
+﻿# Software-Engineering-ICSI-418Y
 ICSI 418Y Final Project Source Code
 
 # Team Members
@@ -50,6 +50,4 @@ The deliverables for this project are as follows
 
 # Grading
 
-Working application – 30%
-Deliverables – 50%
-Project Presentation Last Day of Classes – 20% 
+dddddddd
